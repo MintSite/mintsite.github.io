@@ -1,0 +1,1 @@
+declare function RNG<T>(arr: T[]): T
