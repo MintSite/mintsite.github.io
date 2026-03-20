@@ -1,0 +1,19 @@
+ZE CHANGELOG
+
+* = Correction.
+- = Correction on an future version.
+
+v1 The beginning of the beginning:
+Created website
+Added About MintHub-
+Added featured websites
+
+v1.2 Humble Starts:
+Added Go To Any*
+Added search bar
+
+v1.3 Weird Stuff:
+Added Random Website-
+
+v1.4 Current Version:
+Added French Jumpscare
