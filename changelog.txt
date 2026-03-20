@@ -31,3 +31,6 @@ Added bof.js and it's declaration file [1]
 
 v1.7 Shooting the trouble with an AK-47:
 Added 404 Page
+
+v1.8 Redo Bideu:
+Changed Yay Corp.'s logo on featured websites
