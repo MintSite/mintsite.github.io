@@ -2,6 +2,8 @@ ZE CHANGELOG
 
 * = Correction.
 - = Correction on an future version.
+$ = Correction on the Changelog.
+[1] = I HATE JAVASCRIPT!!!
 
 v1 The beginning of the beginning:
 Created website
@@ -10,10 +12,15 @@ Added featured websites
 
 v1.2 Humble Starts:
 Added Go To Any*
-Added search bar
+Added header bar$
 
 v1.3 Weird Stuff:
 Added Random Website-
 
-v1.4 Current Version:
-Added French Jumpscare
+v1.4 BOO!:
+Added French Jumpscare-
+
+v1.5 Slower than an slug...:
+Updated CSS to make buttons look like links or smth
+Updated randomWeb.js declaration file [1]
+Changed French Jumpscare to be an internal file inside the website
