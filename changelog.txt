@@ -15,7 +15,7 @@ Added Go To Any*
 Added header bar$
 
 v1.3 Weird Stuff:
-Added Random Website-
+Added Random Website--
 
 v1.4 BOO!:
 Added French Jumpscare-
@@ -24,3 +24,7 @@ v1.5 Slower than an slug...:
 Updated CSS to make buttons look like links or smth
 Updated randomWeb.js declaration file [1]
 Changed French Jumpscare to be an internal file inside the website
+
+v1.6 haha website go brrrr:
+Added Buttons Of Fun
+Added bof.js and it's declaration file [1]
