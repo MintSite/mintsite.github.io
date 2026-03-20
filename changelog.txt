@@ -28,3 +28,6 @@ Changed French Jumpscare to be an internal file inside the website
 v1.6 haha website go brrrr:
 Added Buttons Of Fun
 Added bof.js and it's declaration file [1]
+
+v1.7 Shooting the trouble with an AK-47:
+Added 404 Page
