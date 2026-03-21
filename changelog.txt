@@ -34,3 +34,6 @@ Added 404 Page
 
 v1.8 Redo Bideu:
 Changed Yay Corp.'s logo on featured websites
+
+v1.9 MintLang!:
+Moved MintLang from MintSite to MintHub
