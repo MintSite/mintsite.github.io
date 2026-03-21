@@ -37,3 +37,6 @@ Changed Yay Corp.'s logo on featured websites
 
 v1.9 MintLang!:
 Moved MintLang from MintSite to MintHub
+
+v1.91 We ain't getting v2 bro :skull: :
+Added -2763 and -97104 to MintLang
